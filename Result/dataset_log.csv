@@ -1,0 +1,5 @@
+timestamp,subset_size,epochs,seed,noise_std,train_size,test_size,val_size,clean_acc,noisy_acc,clean_loss,noisy_loss,model_name,learning_rate,optimizer
+2026-10-08 08:58:58,2500,50,42,0.4,1750,500,250,0.8840,0.7620,0.4030,0.7552,Dropout Regularized Dense,0.01,SGD
+2026-10-08 08:59:29,2500,100,42,0.4,1750,500,250,0.8980,0.7580,0.3790,0.7005,Dropout Regularized Dense,0.01,SGD
+2026-10-08 08:59:56,5000,50,42,0.4,3500,1000,500,0.9020,0.7190,0.3467,0.8004,Dropout Regularized Dense,0.01,SGD
+2026-10-08 09:00:52,5000,100,42,0.4,3500,1000,500,0.9110,0.7140,0.3079,0.8156,Dropout Regularized Dense,0.01,SGD
